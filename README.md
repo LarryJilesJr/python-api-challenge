@@ -22,3 +22,7 @@ How To... Calculate Correlation Coefficients in R #79 https://www.youtube.com/wa
 
 HOW TO PARSE JSON FROM AN API: USING PYTHON https://www.youtube.com/watch?v=iaN1FxjBuGk&t=269s
 
+
+![Alt text](image.png) First Map rendered in Vacation_Py for viewing
+
+![Alt text](image-1.png) Second Map rendered in Vacation_Py for viewing
